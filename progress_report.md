@@ -27,3 +27,5 @@ For next week:
 1. Saskia to establish a set of goals for residency 
 2. Saskia to research available materials for P5/Processing learning
 3. Check in w/JH 
+4. Phoenix to ask NPT, Playful Arts, CC Amsterdam, Resonate, Convergence	 and A maze if workshops are possible 
+5. Phoenix - Update JH on progress
