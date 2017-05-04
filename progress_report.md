@@ -80,6 +80,31 @@ what concepts were hard to understand? where are you now.
 
 To do list
 1. Write up survey for pre-attendance for NPT (Saskia & Phoenix) and promote it
-2. Write up the survey for former students (Saskia & Phoenix) and promote it
-3. Show 3 physical ideas for functions using dance (Saskia)
-4. tweet call for graphics for class slides (put together a list of ideas) (ultimate destination github)
+
+# March 27th
+* Reviewed write up for image call.
+
+We looked at the above list of stuff and have tabled a bit of it until the close of term. Paper and what not coming soon.
+
+# To do list
+1. Write up the survey for former students (Saskia & Phoenix) and promote it
+2. Show 3 physical ideas for functions using dance (Saskia)
+3. [Phoenix] edit call for images and give feedback to Saskia
+4. Make slides and code for Now Play This which use reveal.js
+5. Amy's membership has been discussed but we need to send her a form
+6. NPT preplan kit and videos as email
+7. Create upload form on google forms for images
+8. Create code pen account
+9. Create research questions & what is the aim
+
+# May 4
+Possible todo: (Saskia Wants to work towards a day workshop content)
+Possible todo: github repo for images [Anders - see if we can auto upload to github]
+2. Call for images on twitter with link to google form [ALL]
+3. Create upload form on google form [Saskia]
+4. UX sketch for how online resources could be presented on CLF site [Saskia]
+5. V&A Fall  --
+  * Get application over to Alex [Saskia]
+  * Get GS/Machines Room dates [Phoenix]
+  * Call for teachers on the London channel  [Saskia]
+6. Explore embedding p5 into reveal [Saskia / Charlie?]
