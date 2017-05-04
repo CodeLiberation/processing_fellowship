@@ -99,12 +99,15 @@ We looked at the above list of stuff and have tabled a bit of it until the close
 
 # May 4
 Possible todo: (Saskia Wants to work towards a day workshop content)
+
 Possible todo: github repo for images [Anders - see if we can auto upload to github]
-2. Call for images on twitter with link to google form [ALL]
-3. Create upload form on google form [Saskia]
-4. UX sketch for how online resources could be presented on CLF site [Saskia]
-5. V&A Fall  --
+
+1. Call for images on twitter with link to google form [ALL]
+
+2. Create upload form on google form [Saskia]
+3. UX sketch for how online resources could be presented on CLF site [Saskia]
+4. V&A Fall  --
   * Get application over to Alex [Saskia]
   * Get GS/Machines Room dates [Phoenix]
   * Call for teachers on the London channel  [Saskia]
-6. Explore embedding p5 into reveal [Saskia / Charlie?]
+5. Explore embedding p5 into reveal [Saskia / Charlie?]
